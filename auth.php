@@ -13,4 +13,5 @@ return [
     |
     */
     'aaa' => 'asdasd',
+    'sadsad' => 'sadasdsad'
 ];
