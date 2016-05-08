@@ -12,9 +12,5 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-
-    'failed' => 'Эти учетные данные не соответствуют нашим данным.',
-    'throttle' => 'Слишком много попыток входа в систему. Пожалуйста, повторите попытку через :seconds секунд.',
-    'test' => 'test',
-    'test' => 'test2',
+    'aaa' => 'asdasd',
 ];
